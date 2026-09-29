@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Leo2k26/Leo2k26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I'm%20Leo&fontSize=60&animation=fadeIn)
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Junior+Web+Developer;Siswa+SMK;Suka+ngoding+PHP+%F0%9F%9A%80)](https://github.com/Leo2k26)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Ganti link ini dengan GIF pilihan Anda -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="gif">
+
+</div>
+
+## 👋 Tentang Saya
+- 🎓 Siswa SMK yang sedang belajar web development
+- 🔭 Sedang mengerjakan Katalog UMKM (PHP + MySQL)
+- 🌱 Belajar Laravel dan JavaScript
+
+## 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,laravel,git,vscode" />
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leo2k26&show_icons=true&theme=radical" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Leo2k26&theme=radical" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
