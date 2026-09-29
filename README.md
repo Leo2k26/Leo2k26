@@ -10,7 +10,7 @@
 
 ## 👋 Tentang Saya
 - 🎓 Siswa SMK yang sedang belajar web development
-- 🔭 Sedang mengerjakan Katalog UMKM (PHP + MySQL)
+- 🔭 Sedang Belajar Memahami Kamu (PHP + MySQL) Kayanya Ga Cukup :((
 - 🌱 Belajar Laravel dan JavaScript
 
 ## 🛠️ Tech Stack
